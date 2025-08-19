@@ -13,10 +13,4 @@ I have experience as a former educator and am skilled at applying data-driven me
 ![](https://nirzak-streak-stats.vercel.app/?user=PallakSinha&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PallakSinha&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PallakSinha&limit=5&theme=default&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=PallakSinha&icon=8&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
