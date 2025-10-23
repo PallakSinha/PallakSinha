@@ -38,7 +38,7 @@ I’m now eager to apply these skills in a **fast-paced, data-driven environment
 |----------|-------------|------|
 | 🏠 **Real Estate Price Prediction** | Building regression models to predict property prices using features like location, area, and amenities | Python, Scikit-learn |
 | 👥 **HR Analytics** | Predicted employee attrition and visualized key HR metrics | Python, Power BI, Pandas |
-| 🛒 **E-commerce Sales Insights** | Analyzed product performance | Power BI |
+| 🛒 **E-commerce Sales Insights** | Analyzed sales & product performance | Power BI |
 
 🔗 Explore all my projects 👉 [**My Repositories**](https://github.com/PallakSinha?tab=repositories)
 
