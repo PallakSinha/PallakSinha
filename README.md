@@ -36,9 +36,11 @@ I’m now eager to apply these skills in a **fast-paced, data-driven environment
 ### 📂 Featured Projects
 | Project | Description | Tech |
 |----------|-------------|------|
-| 🏠 **Real Estate Price Prediction** | Building regression models to predict property prices using features like location, area, and amenities | Python, Scikit-learn |
-| 👥 **HR Analytics** | Predicted employee attrition and visualized key HR metrics | Python, Power BI, Pandas |
-| 🛒 **E-commerce Sales Insights** | Analyzed sales & product performance | Power BI |
+| 🏠 **Real Estate Price Prediction** | Built regression models to predict property prices using features like location, area, and amenities | Python, Scikit-learn |
+| 👥 **HR Analytics** | Predicted employee attrition and visualized key HR metrics to support HR decision-making | Python, Pandas, Power BI |
+| 🛒 **E-commerce Sales Insights** | Analyzed sales trends, product performance, and customer behavior | Power BI |
+| 🗳️ **Voter Turnout Analysis** | Analyzed voter turnout patterns across constituencies, gender, and election years using interactive dashboards | Power BI |
+| 👤 **Customer Segmentation (Clustering Analysis)** | Applied clustering techniques to identify customer segments and uncover behavioral patterns | Python, Scikit-learn |
 
 🔗 Explore all my projects 👉 [**My Repositories**](https://github.com/PallakSinha?tab=repositories)
 
