@@ -5,17 +5,19 @@
 
 ### 🌟 About Me
 As an **aspiring Data Scientist**, I have a strong foundation in **data visualization, statistical modeling, and business analytics**.  
-I’m currently pursuing my **Master’s in Data Science and Artificial Intelligence**, which builds upon my **Data Science and Machine Learning Certification from IIT Delhi**, providing me with hands-on experience in **Python, SQL, Power BI, and Excel** for end-to-end data analysis and predictive modeling.
+I’m currently pursuing my **E-Master’s in Data Science and Artificial Intelligence from BITS Pilani**, building upon my **Data Science and Machine Learning Certification from IIT Delhi**, which has provided me with hands-on experience in **Python, SQL, Power BI, and Excel** for end-to-end data analysis and predictive modeling.
 
-I bring a unique blend of **educational experience and analytical thinking**, having previously worked as a **Mathematics teacher**, where I applied data-driven methodologies to improve learning outcomes.  
+I bring a unique blend of **educational experience and analytical thinking**, having previously worked as a **Mathematics teacher**, where I applied data-driven methodologies to improve learning outcomes. I have also completed a **Data Analysis internship at Elevate Labs**, where I strengthened my ability to apply analytical techniques in real-world business contexts.
 
-During my internship at **Elevate Labs**, I:
-- Utilized **Python** and **Power BI** to process, analyze, and visualize business data.
-- Completed a **capstone project in HR analytics**, developing a **predictive model for employee attrition** and identifying key attrition drivers using classification models.
-- Built **interactive dashboards** to communicate insights to HR leadership.
-- Ensured **data quality** by cleaning and validating datasets using **pandas**.
+Across my academic and professional experiences, I have:
+- Applied **Python-based data analysis** workflows to clean, transform, and analyze structured datasets.
+- Developed **predictive and classification models** to identify patterns, trends, and key drivers in business and HR-related data.
+- Designed and delivered **interactive dashboards** using **Power BI** to communicate insights effectively to technical and non-technical stakeholders.
+- Ensured **data quality and reliability** through systematic data cleaning, validation, and exploratory analysis using **pandas**.
+- Translated analytical findings into **actionable insights** to support data-driven decision-making.
 
-I’m now eager to apply these skills in a **fast-paced, data-driven environment**, leveraging my analytical mindset and communication skills to solve real-world business problems.
+I’m now eager to apply these skills in a **fast-paced, data-driven environment**, leveraging my analytical mindset and strong communication abilities to solve real-world business problems.
+
 
 
 ---
@@ -71,4 +73,4 @@ I’m now eager to apply these skills in a **fast-paced, data-driven environment
 
 ---
 
-⭐️ *“Data is not just numbers — it’s a story waiting to be told.”*
+⭐️ ***“Data is not just numbers — it’s a story waiting to be told.”***
