@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallak Sinha</h1>
-<h3 align="center">Aspiring Data Scientist | Ex-Mathematics Teacher | Data-Driven Problem Solver</h3>
+<h3 align="center">Aspiring Data Scientist | Educator | Data-Driven Problem Solver</h3>
 
 ---
 
