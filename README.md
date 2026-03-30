@@ -51,14 +51,11 @@ I’m now eager to apply these skills in a **fast-paced, data-driven environment
 ### 📈 GitHub Stats
 <div align="center">
 
-<!-- More stable Streak Stats link -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PallakSinha&theme=radical)
 
-<!-- Standard Stats - If this doesn't load, the Vercel server is down -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PallakSinha&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=PallakSinha&show_icons=true&theme=radical)
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PallakSinha&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PallakSinha&layout=compact&theme=radical)
 
 </div>
 
