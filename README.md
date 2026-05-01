@@ -76,8 +76,8 @@ I’m now eager to apply these skills in a **fast-paced, data-driven environment
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallak-sinha-16b177200)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/pallaksinha)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:pallaksinha7@gmail.com)
+[![Alternate Email](https://img.shields.io/badge/-Alt%20Email-D14836?logo=gmail&logoColor=white)](mailto:sinhapallak@gmail.com)
 
 ---
 
