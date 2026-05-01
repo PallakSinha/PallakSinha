@@ -69,7 +69,7 @@ I’m now eager to apply these skills in a **fast-paced, data-driven environment
 
 ### 🏅 Certifications
 - 🎓 **Data Science and Machine Learning Certification – IIT Delhi**
--     **Data Science & Analytics Training – TopMentor**
+- **Data Science & Analytics Training – TopMentor**
 
 
 ---
