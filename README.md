@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pallak Sinha</h1>
-<h3 align="center">Aspiring Data Scientist | Educator | Data-Driven Problem Solver</h3>
+<h3 align="center">Data Science Enthusiast | Educator | Data-Driven Problem Solver</h3>
 
 ---
 
 ### 🌟 About Me
 As an **aspiring Data Scientist**, I have a strong foundation in **data visualization, statistical modeling, and business analytics**.  
-I’m currently pursuing my **E-Master’s in Data Science and Artificial Intelligence from BITS Pilani**, building upon my **Data Science and Machine Learning Certification from IIT Delhi**, which has provided me with hands-on experience in **Python, SQL, Power BI, and Excel** for end-to-end data analysis and predictive modeling.
+I’m currently pursuing my **E-Master’s in Data Science and Artificial Intelligence from BITS Pilani**, building upon my **Data Science and Machine Learning Certification from IIT Delhi**, which has provided me with hands-on experience in **Python, SQL, Power BI, and Excel** for end-to-end data analysis and predictive modeling. I have also completed additional hands-on training in data science and analytics, working on multiple real-world projects involving machine learning and data analysis from TopMentor.
 
 I bring a unique blend of **educational experience and analytical thinking**, having previously worked as a **Mathematics teacher**, where I applied data-driven methodologies to improve learning outcomes. I have also completed a **Data Analysis internship at Elevate Labs**, where I strengthened my ability to apply analytical techniques in real-world business contexts.
 
-Across my academic and professional experiences, I have:
+Across my academic, professional & additional experiences, I have:
 - Applied **Python-based data analysis** workflows to clean, transform, and analyze structured datasets.
 - Developed **predictive and classification models** to identify patterns, trends, and key drivers in business and HR-related data.
 - Designed and delivered **interactive dashboards** using **Power BI** to communicate insights effectively to technical and non-technical stakeholders.
@@ -26,21 +26,27 @@ I’m now eager to apply these skills in a **fast-paced, data-driven environment
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning%20(ANN)-8A2BE2)
+![NLP](https://img.shields.io/badge/-NLP-FF6F61)
+
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0)
 
 ---
 
 ### 📂 Featured Projects
 | Project | Description | Tech |
 |----------|-------------|------|
-| 🏠 **Real Estate Price Prediction** | Built regression models to predict property prices using features like location and area | Python, Scikit-learn, Power BI |
-| 👥 **HR Analytics** | Predicted employee attrition and visualized key HR metrics to support HR decision-making | Python, Pandas, Power BI |
-| 🛒 **E-commerce Sales Insights** | Analyzed sales trends, product performance, and customer behavior | Power BI |
+| 🏠 **House Price Prediction** | Built regression models to predict property prices using features like location and area | Python, Scikit-learn, Power BI |
+| 🛒 **Bank Marketing Campaign Analysis** | Analyzed and classified customer behavior, factors influencing marketing campaign | Machine Learning, Python |
 | 🗳️ **Voter Turnout Analysis** | Analyzed voter turnout patterns across constituencies, gender, and election years using interactive dashboards | Power BI |
 | 👤 **Customer Segmentation (Clustering Analysis)** | Applied clustering techniques to identify customer segments and uncover behavioral patterns | Python, Scikit-learn |
 
@@ -63,6 +69,7 @@ I’m now eager to apply these skills in a **fast-paced, data-driven environment
 
 ### 🏅 Certifications
 - 🎓 **Data Science and Machine Learning Certification – IIT Delhi**
+-     **Data Science & Analytics Training – TopMentor**
 
 
 ---
