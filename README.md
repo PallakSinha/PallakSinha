@@ -1,84 +1,56 @@
-<h1 align="center">Hi 👋, I'm Pallak Sinha</h1>
-<h3 align="center">Data Science Enthusiast | Educator | Data-Driven Problem Solver</h3>
+# Pallak Sinha
+**Data Analyst / Aspiring Data Scientist — Python · SQL · Power BI · Machine Learning**
+
+MSc in Data Science & AI (BITS Pilani Digital, expected 2027) · IIT Delhi–certified in Data Science & ML · 4+ years turning data into decisions
+
+[LinkedIn](https://www.linkedin.com/in/pallak-sinha-16b177200) · [Email](mailto:pallaksinha7@gmail.com) · Delhi, India
 
 ---
 
-### 🌟 About Me
-As an **aspiring Data Scientist**, I have a strong foundation in **data visualization, statistical modeling, and business analytics**.  
-I’m currently pursuing my **E-Master’s in Data Science and Artificial Intelligence from BITS Pilani**, building upon my **Data Science and Machine Learning Certification from IIT Delhi**, which has provided me with hands-on experience in **Python, SQL, Power BI, and Excel** for end-to-end data analysis and predictive modeling. I have also completed additional hands-on training in data science and analytics, working on multiple real-world projects involving machine learning and data analysis from TopMentor.
+## About
 
-I bring a unique blend of **educational experience and analytical thinking**, having previously worked as a **Mathematics teacher**, where I applied data-driven methodologies to improve learning outcomes. I have also completed a **Data Analysis internship at Elevate Labs**, where I strengthened my ability to apply analytical techniques in real-world business contexts.
+I'm a data analyst with a background in economics and education, currently completing an MSc in Data Science & AI (BFSI vertical, AI Products horizontal) at BITS Pilani. I work across Python, SQL, and Power BI to clean, model, and visualize data — most recently building attrition-prediction models on a 4,500+ record HR dataset during a Data Analyst internship at Elevate Labs.
 
-Across my academic, professional & additional experiences, I have:
-- Applied **Python-based data analysis** workflows to clean, transform, and analyze structured datasets.
-- Developed **predictive and classification models** to identify patterns, trends, and key drivers in business and HR-related data.
-- Designed and delivered **interactive dashboards** using **Power BI** to communicate insights effectively to technical and non-technical stakeholders.
-- Ensured **data quality and reliability** through systematic data cleaning, validation, and exploratory analysis using **pandas**.
-- Translated analytical findings into **actionable insights** to support data-driven decision-making.
+Before moving into data science, I spent four years as a mathematics teacher, using assessment data to design interventions that measurably improved student outcomes. That experience shaped how I approach every project now: start from the question a stakeholder actually needs answered, then let the data and the model serve that question — not the other way around.
 
-I’m now eager to apply these skills in a **fast-paced, data-driven environment**, leveraging my analytical mindset and strong communication abilities to solve real-world business problems.
+I bring an economics lens to my analysis — I'm particularly interested in behavioral and applied econometrics — alongside hands-on machine learning, deep learning, and NLP skills built through a portfolio of independent projects.
 
+## Tech Stack
 
+**Languages & Libraries**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
----
+**Machine Learning & AI**
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning%20(ANN)-8A2BE2) ![NLP](https://img.shields.io/badge/-NLP-FF6F61) ![Generative AI](https://img.shields.io/badge/-Generative%20AI-0B5FFF)
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+**BI & Visualization**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c) ![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0)
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+## Featured Projects
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning%20(ANN)-8A2BE2)
-![NLP](https://img.shields.io/badge/-NLP-FF6F61)
+| Project | Description | Stack |
+|---|---|---|
+| [**HR Analytics — Employee Attrition**](https://github.com/PallakSinha/hr-attrition-prediction) | Classification models on 4,500+ employee records to identify attrition drivers (80% accuracy) | Python, Scikit-learn, Power BI |
+| [**Customer Churn Prediction**](https://github.com/PallakSinha/Customer_Churn_ANN) | Feedforward neural network (TensorFlow/Keras) to predict customer churn | Python, TensorFlow, Keras |
+| [**Bank Marketing Campaign Prediction**](https://github.com/PallakSinha/Bank_marketing_ML) | Compared four classification models to predict term-deposit subscription; tuned with GridSearchCV | Python, Scikit-learn |
+| [**Sentiment Analysis (NLP)**](https://github.com/PallakSinha/Sentiment_Analysis_NLP) | TF-IDF + Logistic Regression pipeline classifying Amazon product reviews by sentiment | Python, NLTK, Scikit-learn |
+| [**Customer Segmentation**](https://github.com/PallakSinha/Wholesale_Customer_Clustering) | K-Means clustering to segment customers by income, spend, and demographics | Python, Scikit-learn |
+| [**House Price Prediction**](https://github.com/PallakSinha/house-price-prediction) | Regression model predicting real estate prices, evaluated with R² and RMSE | Python, Scikit-learn |
+| [**Voter Turnout Analysis**](https://github.com/PallakSinha/Voter_Turnout_Analysis) | Interactive dashboard on Indian election turnout (2014–2024) by region and year | Power BI |
 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0)
+More on [my repositories →](https://github.com/PallakSinha?tab=repositories)
 
----
-
-### 📂 Featured Projects
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🏠 **House Price Prediction** | Built regression models to predict property prices using features like location and area | Python, Scikit-learn, Power BI |
-| 🛒 **Bank Marketing Campaign Analysis** | Analyzed and classified customer behavior, factors influencing marketing campaign | Machine Learning, Python |
-| 🗳️ **Voter Turnout Analysis** | Analyzed voter turnout patterns across constituencies, gender, and election years using interactive dashboards | Power BI |
-| 👤 **Customer Segmentation (Clustering Analysis)** | Applied clustering techniques to identify customer segments and uncover behavioral patterns | Python, Scikit-learn |
-
-🔗 Explore all my projects 👉 [**My Repositories**](https://github.com/PallakSinha?tab=repositories)
-
----
-
-### 📈 GitHub Stats
-<div align="center">
+## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PallakSinha&theme=radical)
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=PallakSinha&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=PallakSinha&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PallakSinha&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PallakSinha&layout=compact&theme=radical)
+## Certifications
 
-</div>
+- Data Science & Machine Learning — IIT Delhi (Yardi School of Artificial Intelligence), Jul 2023 – Mar 2024
+- Data Science & Analytics Training — TopMentor
 
----
+## Connect
 
-### 🏅 Certifications
-- 🎓 **Data Science and Machine Learning Certification – IIT Delhi**
-- **Data Science & Analytics Training – TopMentor**
-
-
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallak-sinha-16b177200)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:pallaksinha7@gmail.com)
-[![Alternate Email](https://img.shields.io/badge/-Alt%20Email-D14836?logo=gmail&logoColor=white)](mailto:sinhapallak@gmail.com)
-
----
-
-⭐️ ***“Data is not just numbers — it’s a story waiting to be told.”***
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallak-sinha-16b177200) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:pallaksinha7@gmail.com)
