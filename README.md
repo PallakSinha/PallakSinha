@@ -1,7 +1,7 @@
 # Pallak Sinha
-**Data Analyst / Aspiring Data Scientist — Python · SQL · Power BI · Machine Learning**
+**Data Science Enthusiast | Educator | Data-Driven Problem Solver**
 
-MSc in Data Science & AI (BITS Pilani Digital, expected 2027) · IIT Delhi–certified in Data Science & ML · 4+ years turning data into decisions
+MSc in Data Science & AI (2027) ·  4+ years turning data into decisions
 
 [LinkedIn](https://www.linkedin.com/in/pallak-sinha-16b177200) · [Email](mailto:pallaksinha7@gmail.com) · Delhi, India
 
@@ -9,11 +9,14 @@ MSc in Data Science & AI (BITS Pilani Digital, expected 2027) · IIT Delhi–cer
 
 ## About
 
-I'm a data analyst with a background in economics and education, currently completing an MSc in Data Science & AI (BFSI vertical, AI Products horizontal) at BITS Pilani. I work across Python, SQL, and Power BI to clean, model, and visualize data — most recently building attrition-prediction models on a 4,500+ record HR dataset during a Data Analyst internship at Elevate Labs.
+I'm a detail-oriented professional with a background in economics and education, currently completing an MSc in Data Science & AI (Finance specialization) from BITS Pilani. I have a strong foundation in data visualization, statistical modeling, and business analytics, developed through hands-on work in Python, SQL, and Power BI.
 
 Before moving into data science, I spent four years as a mathematics teacher, using assessment data to design interventions that measurably improved student outcomes. That experience shaped how I approach every project now: start from the question a stakeholder actually needs answered, then let the data and the model serve that question — not the other way around.
 
 I bring an economics lens to my analysis — I'm particularly interested in behavioral and applied econometrics — alongside hands-on machine learning, deep learning, and NLP skills built through a portfolio of independent projects.
+
+🔭 Currently: Building hands-on projects and strengthening my practical skills in Data Science and AI
+📊 Interests: Data Science, Business Analytics, Financial Analytics, and applied AI
 
 ## Tech Stack
 
