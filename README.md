@@ -3,7 +3,7 @@
 
 MSc in Data Science & AI (2027) · 4+ years of professional experience in education and data-informed decision-making
 
-[LinkedIn](https://www.linkedin.com/in/pallak-sinha-16b177200) · [Email](mailto:pallaksinha7@gmail.com) · Delhi, India
+Delhi, India
 
 ---
 
