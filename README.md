@@ -15,7 +15,7 @@ Before moving into data science, I spent four years as a mathematics teacher, us
 
 I bring an economics lens to my analysis — I'm particularly interested in behavioral and applied econometrics — alongside hands-on machine learning, deep learning, and NLP skills built through a portfolio of independent projects.
 
-🔭 Currently: Building hands-on projects and strengthening my practical skills in Data Science and AI
+🔭 Currently: Building hands-on projects and strengthening my practical skills in Data Science and AI      
 📊 Interests: Data Science, Business Analytics, Financial Analytics, and applied AI
 
 ## Tech Stack
