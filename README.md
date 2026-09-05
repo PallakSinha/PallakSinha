@@ -1,7 +1,7 @@
 # Pallak Sinha
-**Data Science Enthusiast | Educator | Data-Driven Problem Solver**
+**Data Science & AI | Educator | Data-Driven Problem Solver**
 
-MSc in Data Science & AI (2027) ·  4+ years turning data into decisions
+MSc in Data Science & AI (2027) · 4+ years of professional experience in education and data-informed decision-making
 
 [LinkedIn](https://www.linkedin.com/in/pallak-sinha-16b177200) · [Email](mailto:pallaksinha7@gmail.com) · Delhi, India
 
@@ -13,7 +13,7 @@ I'm a detail-oriented professional with a background in economics and education,
 
 Before moving into data science, I spent four years as a mathematics teacher, using assessment data to design interventions that measurably improved student outcomes. That experience shaped how I approach every project now: start from the question a stakeholder actually needs answered, then let the data and the model serve that question — not the other way around.
 
-I bring an economics lens to my analysis — I'm particularly interested in behavioral and applied econometrics — alongside hands-on machine learning, deep learning, and NLP skills built through a portfolio of independent projects.
+I bring an economics lens to my analysis — I'm as interested in why a number moves as in the number itself — alongside hands-on machine learning, deep learning, and NLP skills built through a portfolio of independent projects.
 
 🔭 Currently: Building hands-on projects and strengthening my practical skills in Data Science and AI      
 📊 Interests: Data Science, Business Analytics, Financial Analytics, and applied AI
@@ -33,13 +33,13 @@ I bring an economics lens to my analysis — I'm particularly interested in beha
 
 | Project | Description | Stack |
 |---|---|---|
-| [**HR Analytics — Employee Attrition**](https://github.com/PallakSinha/hr-attrition-prediction) | Classification models on 4,500+ employee records to identify attrition drivers (80% accuracy) | Python, Scikit-learn, Power BI |
 | [**Customer Churn Prediction**](https://github.com/PallakSinha/Customer_Churn_ANN) | Feedforward neural network (TensorFlow/Keras) to predict customer churn | Python, TensorFlow, Keras |
 | [**Bank Marketing Campaign Prediction**](https://github.com/PallakSinha/Bank_marketing_ML) | Compared four classification models to predict term-deposit subscription; tuned with GridSearchCV | Python, Scikit-learn |
 | [**Sentiment Analysis (NLP)**](https://github.com/PallakSinha/Sentiment_Analysis_NLP) | TF-IDF + Logistic Regression pipeline classifying Amazon product reviews by sentiment | Python, NLTK, Scikit-learn |
 | [**Customer Segmentation**](https://github.com/PallakSinha/Wholesale_Customer_Clustering) | K-Means clustering to segment customers by income, spend, and demographics | Python, Scikit-learn |
 | [**House Price Prediction**](https://github.com/PallakSinha/house-price-prediction) | Regression model predicting real estate prices, evaluated with R² and RMSE | Python, Scikit-learn |
 | [**Voter Turnout Analysis**](https://github.com/PallakSinha/Voter_Turnout_Analysis) | Interactive dashboard on Indian election turnout (2014–2024) by region and year | Power BI |
+| [**HR Analytics — Employee Attrition**](https://github.com/PallakSinha/hr-attrition-prediction) | Classification models on 4,500+ employee records to identify attrition drivers (80% accuracy) | Python, Scikit-learn, Power BI |
 
 More on [my repositories →](https://github.com/PallakSinha?tab=repositories)
 
